@@ -26,6 +26,24 @@ namespace Android1.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_dialog_actioned_on_disabled_toast = global::Android1.Droid.Resource.String.appcenter_distribute_dialog_actioned_on_disabled_toast;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_download_progress_number_format = global::Android1.Droid.Resource.String.appcenter_distribute_download_progress_number_format;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_downloading_mandatory_update = global::Android1.Droid.Resource.String.appcenter_distribute_downloading_mandatory_update;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install = global::Android1.Droid.Resource.String.appcenter_distribute_install;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install_ready_message = global::Android1.Droid.Resource.String.appcenter_distribute_install_ready_message;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_install_ready_title = global::Android1.Droid.Resource.String.appcenter_distribute_install_ready_title;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_notification_category = global::Android1.Droid.Resource.String.appcenter_distribute_notification_category;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_unknown_sources_dialog_message = global::Android1.Droid.Resource.String.appcenter_distribute_unknown_sources_dialog_message;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_unknown_sources_dialog_settings = global::Android1.Droid.Resource.String.appcenter_distribute_unknown_sources_dialog_settings;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_download = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_download;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_message_mandatory = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_message_mandatory;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_message_optional = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_message_optional;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_postpone = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_postpone;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_title = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_title;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_dialog_view_release_notes = global::Android1.Droid.Resource.String.appcenter_distribute_update_dialog_view_release_notes;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_ignore = global::Android1.Droid.Resource.String.appcenter_distribute_update_failed_dialog_ignore;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_reinstall = global::Android1.Droid.Resource.String.appcenter_distribute_update_failed_dialog_reinstall;
+			global::Microsoft.AppCenter.Distribute.Resource.String.appcenter_distribute_update_failed_dialog_title = global::Android1.Droid.Resource.String.appcenter_distribute_update_failed_dialog_title;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::Android1.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -2996,6 +3014,60 @@ namespace Android1.Droid
 			
 			// aapt resource value: 0x7f080023
 			public const int appbar_scrolling_view_behavior = 2131230755;
+			
+			// aapt resource value: 0x7f080026
+			public const int appcenter_distribute_dialog_actioned_on_disabled_toast = 2131230758;
+			
+			// aapt resource value: 0x7f080027
+			public const int appcenter_distribute_download_progress_number_format = 2131230759;
+			
+			// aapt resource value: 0x7f080028
+			public const int appcenter_distribute_downloading_mandatory_update = 2131230760;
+			
+			// aapt resource value: 0x7f080029
+			public const int appcenter_distribute_install = 2131230761;
+			
+			// aapt resource value: 0x7f08002a
+			public const int appcenter_distribute_install_ready_message = 2131230762;
+			
+			// aapt resource value: 0x7f08002b
+			public const int appcenter_distribute_install_ready_title = 2131230763;
+			
+			// aapt resource value: 0x7f08002c
+			public const int appcenter_distribute_notification_category = 2131230764;
+			
+			// aapt resource value: 0x7f08002d
+			public const int appcenter_distribute_unknown_sources_dialog_message = 2131230765;
+			
+			// aapt resource value: 0x7f08002e
+			public const int appcenter_distribute_unknown_sources_dialog_settings = 2131230766;
+			
+			// aapt resource value: 0x7f08002f
+			public const int appcenter_distribute_update_dialog_download = 2131230767;
+			
+			// aapt resource value: 0x7f080030
+			public const int appcenter_distribute_update_dialog_message_mandatory = 2131230768;
+			
+			// aapt resource value: 0x7f080031
+			public const int appcenter_distribute_update_dialog_message_optional = 2131230769;
+			
+			// aapt resource value: 0x7f080032
+			public const int appcenter_distribute_update_dialog_postpone = 2131230770;
+			
+			// aapt resource value: 0x7f080033
+			public const int appcenter_distribute_update_dialog_title = 2131230771;
+			
+			// aapt resource value: 0x7f080034
+			public const int appcenter_distribute_update_dialog_view_release_notes = 2131230772;
+			
+			// aapt resource value: 0x7f080035
+			public const int appcenter_distribute_update_failed_dialog_ignore = 2131230773;
+			
+			// aapt resource value: 0x7f080036
+			public const int appcenter_distribute_update_failed_dialog_reinstall = 2131230774;
+			
+			// aapt resource value: 0x7f080037
+			public const int appcenter_distribute_update_failed_dialog_title = 2131230775;
 			
 			// aapt resource value: 0x7f080024
 			public const int bottom_sheet_behavior = 2131230756;
